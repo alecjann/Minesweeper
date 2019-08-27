@@ -1,0 +1,42 @@
+C:\Users\Alec Jann\source\repos\Minesweeper Web App\Minesweeper Web App\bin\Debug\netcoreapp2.1\Minesweeper Web App.deps.json
+C:\Users\Alec Jann\source\repos\Minesweeper Web App\Minesweeper Web App\bin\Debug\netcoreapp2.1\Minesweeper Web App.runtimeconfig.json
+C:\Users\Alec Jann\source\repos\Minesweeper Web App\Minesweeper Web App\bin\Debug\netcoreapp2.1\Minesweeper Web App.runtimeconfig.dev.json
+C:\Users\Alec Jann\source\repos\Minesweeper Web App\Minesweeper Web App\bin\Debug\netcoreapp2.1\Minesweeper Web App.dll
+C:\Users\Alec Jann\source\repos\Minesweeper Web App\Minesweeper Web App\bin\Debug\netcoreapp2.1\Minesweeper Web App.pdb
+C:\Users\Alec Jann\source\repos\Minesweeper Web App\Minesweeper Web App\obj\Debug\netcoreapp2.1\Minesweeper Web App.csprojAssemblyReference.cache
+C:\Users\Alec Jann\source\repos\Minesweeper Web App\Minesweeper Web App\obj\Debug\netcoreapp2.1\Minesweeper Web App.csproj.CoreCompileInputs.cache
+C:\Users\Alec Jann\source\repos\Minesweeper Web App\Minesweeper Web App\obj\Debug\netcoreapp2.1\Minesweeper Web App.RazorAssemblyInfo.cache
+C:\Users\Alec Jann\source\repos\Minesweeper Web App\Minesweeper Web App\obj\Debug\netcoreapp2.1\Minesweeper Web App.RazorAssemblyInfo.cs
+C:\Users\Alec Jann\source\repos\Minesweeper Web App\Minesweeper Web App\obj\Debug\netcoreapp2.1\Minesweeper Web App.AssemblyInfoInputs.cache
+C:\Users\Alec Jann\source\repos\Minesweeper Web App\Minesweeper Web App\obj\Debug\netcoreapp2.1\Minesweeper Web App.AssemblyInfo.cs
+C:\Users\Alec Jann\source\repos\Minesweeper Web App\Minesweeper Web App\obj\Debug\netcoreapp2.1\Minesweeper Web App.RazorTargetAssemblyInfo.cache
+C:\Users\Alec Jann\source\repos\Minesweeper Web App\Minesweeper Web App\obj\Debug\netcoreapp2.1\Minesweeper Web App.dll
+C:\Users\Alec Jann\source\repos\Minesweeper Web App\Minesweeper Web App\obj\Debug\netcoreapp2.1\Minesweeper Web App.pdb
+C:\Users\Alec Jann\Desktop\jQuery\Minesweeper Web App\bin\Debug\netcoreapp2.1\Minesweeper Web App.deps.json
+C:\Users\Alec Jann\Desktop\jQuery\Minesweeper Web App\bin\Debug\netcoreapp2.1\Minesweeper Web App.runtimeconfig.json
+C:\Users\Alec Jann\Desktop\jQuery\Minesweeper Web App\bin\Debug\netcoreapp2.1\Minesweeper Web App.runtimeconfig.dev.json
+C:\Users\Alec Jann\Desktop\jQuery\Minesweeper Web App\bin\Debug\netcoreapp2.1\Minesweeper Web App.dll
+C:\Users\Alec Jann\Desktop\jQuery\Minesweeper Web App\bin\Debug\netcoreapp2.1\Minesweeper Web App.pdb
+C:\Users\Alec Jann\Desktop\jQuery\Minesweeper Web App\obj\Debug\netcoreapp2.1\Minesweeper Web App.csprojAssemblyReference.cache
+C:\Users\Alec Jann\Desktop\jQuery\Minesweeper Web App\obj\Debug\netcoreapp2.1\Minesweeper Web App.csproj.CoreCompileInputs.cache
+C:\Users\Alec Jann\Desktop\jQuery\Minesweeper Web App\obj\Debug\netcoreapp2.1\Minesweeper Web App.RazorAssemblyInfo.cache
+C:\Users\Alec Jann\Desktop\jQuery\Minesweeper Web App\obj\Debug\netcoreapp2.1\Minesweeper Web App.RazorAssemblyInfo.cs
+C:\Users\Alec Jann\Desktop\jQuery\Minesweeper Web App\obj\Debug\netcoreapp2.1\Minesweeper Web App.AssemblyInfoInputs.cache
+C:\Users\Alec Jann\Desktop\jQuery\Minesweeper Web App\obj\Debug\netcoreapp2.1\Minesweeper Web App.AssemblyInfo.cs
+C:\Users\Alec Jann\Desktop\jQuery\Minesweeper Web App\obj\Debug\netcoreapp2.1\Minesweeper Web App.RazorTargetAssemblyInfo.cache
+C:\Users\Alec Jann\Desktop\jQuery\Minesweeper Web App\obj\Debug\netcoreapp2.1\Minesweeper Web App.dll
+C:\Users\Alec Jann\Desktop\jQuery\Minesweeper Web App\obj\Debug\netcoreapp2.1\Minesweeper Web App.pdb
+C:\Users\Alec Jann\Desktop\Coding Projects\Minesweeper Web App\bin\Debug\netcoreapp2.1\Minesweeper Web App.deps.json
+C:\Users\Alec Jann\Desktop\Coding Projects\Minesweeper Web App\bin\Debug\netcoreapp2.1\Minesweeper Web App.runtimeconfig.json
+C:\Users\Alec Jann\Desktop\Coding Projects\Minesweeper Web App\bin\Debug\netcoreapp2.1\Minesweeper Web App.runtimeconfig.dev.json
+C:\Users\Alec Jann\Desktop\Coding Projects\Minesweeper Web App\bin\Debug\netcoreapp2.1\Minesweeper Web App.dll
+C:\Users\Alec Jann\Desktop\Coding Projects\Minesweeper Web App\bin\Debug\netcoreapp2.1\Minesweeper Web App.pdb
+C:\Users\Alec Jann\Desktop\Coding Projects\Minesweeper Web App\obj\Debug\netcoreapp2.1\Minesweeper Web App.csprojAssemblyReference.cache
+C:\Users\Alec Jann\Desktop\Coding Projects\Minesweeper Web App\obj\Debug\netcoreapp2.1\Minesweeper Web App.csproj.CoreCompileInputs.cache
+C:\Users\Alec Jann\Desktop\Coding Projects\Minesweeper Web App\obj\Debug\netcoreapp2.1\Minesweeper Web App.RazorAssemblyInfo.cache
+C:\Users\Alec Jann\Desktop\Coding Projects\Minesweeper Web App\obj\Debug\netcoreapp2.1\Minesweeper Web App.RazorAssemblyInfo.cs
+C:\Users\Alec Jann\Desktop\Coding Projects\Minesweeper Web App\obj\Debug\netcoreapp2.1\Minesweeper Web App.AssemblyInfoInputs.cache
+C:\Users\Alec Jann\Desktop\Coding Projects\Minesweeper Web App\obj\Debug\netcoreapp2.1\Minesweeper Web App.AssemblyInfo.cs
+C:\Users\Alec Jann\Desktop\Coding Projects\Minesweeper Web App\obj\Debug\netcoreapp2.1\Minesweeper Web App.RazorTargetAssemblyInfo.cache
+C:\Users\Alec Jann\Desktop\Coding Projects\Minesweeper Web App\obj\Debug\netcoreapp2.1\Minesweeper Web App.dll
+C:\Users\Alec Jann\Desktop\Coding Projects\Minesweeper Web App\obj\Debug\netcoreapp2.1\Minesweeper Web App.pdb
